@@ -1,0 +1,61 @@
+{
+  "settings": {
+    "flashcardEasyText": "Easy",
+    "flashcardGoodText": "Good",
+    "flashcardHardText": "Hard",
+    "reviewButtonDelay": 0,
+    "flashcardTags": [
+      "#number-systems"
+    ],
+    "convertFoldersToDecks": false,
+    "burySiblingCards": false,
+    "showContextInCards": true,
+    "flashcardHeightPercentage": 80,
+    "flashcardWidthPercentage": 40,
+    "randomizeCardOrder": null,
+    "flashcardCardOrder": "DueFirstRandom",
+    "flashcardDeckOrder": "PrevDeckComplete_Sequential",
+    "convertHighlightsToClozes": true,
+    "convertBoldTextToClozes": false,
+    "convertCurlyBracketsToClozes": true,
+    "clozePatterns": [
+      "==[123;;]answer[;;hint]==",
+      "{{[123;;]answer[;;hint]}}"
+    ],
+    "singleLineCardSeparator": "::",
+    "singleLineReversedCardSeparator": ":::",
+    "multilineCardSeparator": "?",
+    "multilineReversedCardSeparator": "??",
+    "multilineCardEndMarker": "---",
+    "editLaterTag": "#edit-later",
+    "enableNoteReviewPaneOnStartup": true,
+    "tagsToReview": [
+      "#review"
+    ],
+    "noteFoldersToIgnore": [
+      "**/*.excalidraw.md",
+      "Templates",
+      "Files"
+    ],
+    "openRandomNote": false,
+    "autoNextNote": false,
+    "disableFileMenuReviewOptions": false,
+    "maxNDaysNotesReviewQueue": 365,
+    "showRibbonIcon": true,
+    "showStatusBar": true,
+    "initiallyExpandAllSubdecksInTree": false,
+    "algorithm": "SM-2-OSR",
+    "baseEase": 130,
+    "lapsesIntervalChange": 0.01,
+    "easyBonus": 1,
+    "maximumInterval": 2,
+    "maxLinkFactor": 1,
+    "dataStore": "NOTES",
+    "cardCommentOnSameLine": false,
+    "showSchedulingDebugMessages": false,
+    "showParserDebugMessages": false
+  },
+  "buryDate": "",
+  "buryList": [],
+  "historyDeck": null
+}
