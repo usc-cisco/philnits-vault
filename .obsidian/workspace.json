@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Drafts/2024S_FE-A_1.md",
-                "mode": "source",
+                "file": "Templates/000 Flashcard.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de5acf7f417ab3ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#idea",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Drafts/2024S_FE-A_1.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Drafts/2024S_FE-A_1.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Drafts/2024S_FE-A_1.md"
+                "file": "README.md"
               }
             }
           },
@@ -156,14 +169,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "27e6ce61a618fbf8",
+  "active": "de5acf7f417ab3ba",
   "lastOpenFiles": [
-    "Files/Pasted image 20241015234344.png",
+    "Templates/000 Flashcard.md",
+    "README.md",
     "000 Drafts/2024S_FE-A_1.md",
+    "Files/Pasted image 20241015234344.png",
     "000 Drafts/Untitled 1.md",
     "Files/Pasted image 20241015233529.png",
-    "000 Drafts/2024S_FE-A_1.md",
-    "Templates/000 Flashcard.md",
     "Scripts/reset.bat",
     "Scripts/reset.ps1",
     "Scripts/New folder",

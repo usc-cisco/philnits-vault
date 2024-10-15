@@ -36,7 +36,7 @@ $291 + 0.25 = 291.25$
 
 
 
-%%ignore this%%
+%% ignore this %%
 ---
 
 
