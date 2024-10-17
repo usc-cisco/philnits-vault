@@ -5,7 +5,14 @@
     "flashcardHardText": "Hard",
     "reviewButtonDelay": 0,
     "flashcardTags": [
-      "#operating-systems"
+      "#operating-systems",
+      "#project-management",
+      "#accounting",
+      "#probability",
+      "#algorithms",
+      "#hardware",
+      "#cybersecurity",
+      "#digital-logic"
     ],
     "convertFoldersToDecks": false,
     "burySiblingCards": false,
@@ -18,9 +25,7 @@
     "convertHighlightsToClozes": true,
     "convertBoldTextToClozes": false,
     "convertCurlyBracketsToClozes": false,
-    "clozePatterns": [
-      "==[123;;]answer[;;hint]=="
-    ],
+    "clozePatterns": ["==[123;;]answer[;;hint]=="],
     "singleLineCardSeparator": "::",
     "singleLineReversedCardSeparator": ":::",
     "multilineCardSeparator": "?",
@@ -28,12 +33,8 @@
     "multilineCardEndMarker": "",
     "editLaterTag": "#edit-later",
     "enableNoteReviewPaneOnStartup": true,
-    "tagsToReview": [
-      "#review"
-    ],
-    "noteFoldersToIgnore": [
-      "**/*.excalidraw.md"
-    ],
+    "tagsToReview": ["#review"],
+    "noteFoldersToIgnore": ["**/*.excalidraw.md"],
     "openRandomNote": false,
     "autoNextNote": false,
     "disableFileMenuReviewOptions": false,
