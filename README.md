@@ -90,3 +90,5 @@ This is the end of the explanation, I hope you now understand why c) is the answ
 	 - statistics, probability
 - `#cybersecurity`
 	- information security
+- `#systems-architecture`
+	- UML2
