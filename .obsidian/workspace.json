@@ -216,12 +216,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "248217ea1d46fdc3",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -236,11 +246,10 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "reset-timeout:Reset Flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "bb3e4a8c781ece23",
+  "active": "248217ea1d46fdc3",
   "lastOpenFiles": [
     "Scripts/resetFlashcardTimers.js",
     "Scripts/reset.bat",
