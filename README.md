@@ -99,6 +99,11 @@ This is the end of the explanation, I hope you now understand why c) is the answ
 - `#digital-logic`
   - Boolean algebra, logic circuits
 - `#algorithms`
-  - Common algorithms and data structures
+  - Common algorithms
 - `#hardware`
   - Computer architecture and physical components
+	- Boolean algebra, logic circuits
+- `#data-structures`
+	- Stacks, Queues, Trees, Graphs
+- `#programming`
+	- Strings, Integers, Characters
