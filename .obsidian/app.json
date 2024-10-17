@@ -2,5 +2,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "000 Drafts",
   "attachmentFolderPath": "Files",
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "promptDelete": false
 }
