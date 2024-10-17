@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "Templates/000 Flashcard.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "000 Flashcard"
             }
           }
         ],
@@ -226,12 +226,32 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b8642ccb84bf2829",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "af47108ffd151497",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "horizontal",
@@ -240,6 +260,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "reset-timeout:Reset Flashcards": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -249,11 +270,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "248217ea1d46fdc3",
+  "active": "de5acf7f417ab3ba",
   "lastOpenFiles": [
+    "000 Drafts/2024S_FE-A_1.md",
     "Scripts/resetFlashcardTimers.js",
     "Scripts/reset.bat",
     "Scripts",
+    "Files/Pasted image 20241015234344.png",
+    "Templates/000 Flashcard.md",
+    "README.md",
     "Reset-Spaced-Repetition-Timeout/node_modules/which/bin/node-which",
     "Reset-Spaced-Repetition-Timeout/node_modules/which/bin",
     "Reset-Spaced-Repetition-Timeout/node_modules/type-fest/ts41/snake-case.d.ts",
@@ -261,7 +286,6 @@
     "Reset-Spaced-Repetition-Timeout/node_modules/type-fest/ts41/kebab-case.d.ts",
     "Reset-Spaced-Repetition-Timeout/node_modules/type-fest/ts41/index.d.ts",
     "Reset-Spaced-Repetition-Timeout/node_modules/type-fest/ts41/delimiter-case.d.ts",
-    "Reset-Spaced-Repetition-Timeout/node_modules/type-fest/ts41/camel-case.d.ts",
     "Reset-Spaced-Repetition-Timeout/node_modules/style-mod/src/README.md",
     "Reset-Spaced-Repetition-Timeout/node_modules/typescript/SECURITY.md",
     "Reset-Spaced-Repetition-Timeout/node_modules/typescript/README.md",
@@ -285,12 +309,9 @@
     "Reset-Spaced-Repetition-Timeout/node_modules/@typescript-eslint/eslint-plugin/docs/rules/restrict-template-expressions.md",
     "Reset-Spaced-Repetition-Timeout/node_modules/@typescript-eslint/eslint-plugin/docs/rules/restrict-plus-operands.md",
     "Reset-Spaced-Repetition-Timeout/node_modules/@typescript-eslint/eslint-plugin/docs/rules/require-await.md",
-    "Reset-Spaced-Repetition-Timeout/node_modules/@typescript-eslint/eslint-plugin/docs/rules/require-array-sort-compare.md",
-    "Reset-Spaced-Repetition-Timeout/node_modules/@typescript-eslint/eslint-plugin/docs/rules/README.md",
     "Reset-Spaced-Repetition-Timeout/screenshots/Ribbon Menu.png",
     "Reset-Spaced-Repetition-Timeout/screenshots/Enabling Plugin.png",
     "Reset-Spaced-Repetition-Timeout/screenshots/Command.png",
-    "Files/Pasted image 20241015234344.png",
     "Files/Pasted image 20241015233529.png",
     "Pasted image 20241015232054.png",
     "Pasted image 20241015232054 1.png"
