@@ -107,3 +107,5 @@ This is the end of the explanation, I hope you now understand why c) is the answ
 	- Stacks, Queues, Trees, Graphs
 - `#programming`
 	- Strings, Integers, Characters
+- `#information-management`
+	- Databases, SQL
