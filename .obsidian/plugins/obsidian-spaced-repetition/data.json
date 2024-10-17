@@ -5,17 +5,14 @@
     "flashcardHardText": "Hard",
     "reviewButtonDelay": 0,
     "flashcardTags": [
-      "#number-systems",
-<<<<<<< HEAD
-      "#digital-logic"
-=======
       "#operating-systems",
       "#project-management",
       "#accounting",
       "#probability",
+      "#algorithms",
+      "#hardware",
       "#cybersecurity",
-      ""
->>>>>>> c106a72dc73110b128e4aedd9906ebe3cd22dea6
+      "#digital-logic"
     ],
     "convertFoldersToDecks": false,
     "burySiblingCards": false,
@@ -27,26 +24,17 @@
     "flashcardDeckOrder": "PrevDeckComplete_Sequential",
     "convertHighlightsToClozes": true,
     "convertBoldTextToClozes": false,
-    "convertCurlyBracketsToClozes": true,
-    "clozePatterns": [
-      "==[123;;]answer[;;hint]==",
-      "{{[123;;]answer[;;hint]}}"
-    ],
+    "convertCurlyBracketsToClozes": false,
+    "clozePatterns": ["==[123;;]answer[;;hint]=="],
     "singleLineCardSeparator": "::",
     "singleLineReversedCardSeparator": ":::",
     "multilineCardSeparator": "?",
     "multilineReversedCardSeparator": "??",
-    "multilineCardEndMarker": "---",
+    "multilineCardEndMarker": "",
     "editLaterTag": "#edit-later",
     "enableNoteReviewPaneOnStartup": true,
-    "tagsToReview": [
-      "#review"
-    ],
-    "noteFoldersToIgnore": [
-      "**/*.excalidraw.md",
-      "Templates",
-      "Files"
-    ],
+    "tagsToReview": ["#review"],
+    "noteFoldersToIgnore": ["**/*.excalidraw.md"],
     "openRandomNote": false,
     "autoNextNote": false,
     "disableFileMenuReviewOptions": false,
@@ -55,10 +43,10 @@
     "showStatusBar": true,
     "initiallyExpandAllSubdecksInTree": false,
     "algorithm": "SM-2-OSR",
-    "baseEase": 130,
-    "lapsesIntervalChange": 0.01,
-    "easyBonus": 1,
-    "maximumInterval": 2,
+    "baseEase": 250,
+    "lapsesIntervalChange": 0.5,
+    "easyBonus": 1.3,
+    "maximumInterval": 36525,
     "maxLinkFactor": 1,
     "dataStore": "NOTES",
     "cardCommentOnSameLine": false,
