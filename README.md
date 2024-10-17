@@ -96,3 +96,5 @@ This is the end of the explanation, I hope you now understand why c) is the answ
 	- union, interception, Venn Diagram word problems
 - `#digital-logic`
 	- Boolean algebra, logic circuits
+- `#data-structures
+	- Stacks, Queues, Trees, Graphs
