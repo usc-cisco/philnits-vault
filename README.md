@@ -87,4 +87,4 @@ This is the end of the explanation, I hope you now understand why c) is the answ
 - `#accounting`
 	- balance sheets, profit calculation, P/L statements
  - `#probability`
-    	- statistics, probability
+	 - statistics, probability
