@@ -5,7 +5,8 @@
     "flashcardHardText": "Hard",
     "reviewButtonDelay": 0,
     "flashcardTags": [
-      "#number-systems"
+      "#number-systems",
+      "#digital-logic"
     ],
     "convertFoldersToDecks": false,
     "burySiblingCards": false,
