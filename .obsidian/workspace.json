@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c18f30486c3a92fc",
+        "id": "2664f091691db07d",
         "type": "tabs",
         "children": [
           {
-            "id": "27e6ce61a618fbf8",
+            "id": "ad0a423ddaa3fab3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/000 Flashcard.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000 Flashcard"
+              "title": "README"
             }
           },
           {
-            "id": "de5acf7f417ab3ba",
+            "id": "10ea265f07969c28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/000 Flashcard.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000 Flashcard"
+              "title": "README"
             }
           }
         ],
@@ -246,12 +246,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "2b5fc5230dff03c1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "horizontal",
@@ -267,25 +277,30 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "de5acf7f417ab3ba",
+  "active": "10ea265f07969c28",
   "lastOpenFiles": [
+    "Files/image.png",
+    "README.md",
+    "Excalidraw/Drawing 2024-10-17 13.51.07.excalidraw.md",
+    "000 Drafts/2023A_FE_AM_1.md",
+    "Excalidraw",
+    "Templates/000 Flashcard.md",
     "000 Drafts/2024S_FE-A_1.md",
     "Scripts/resetFlashcardTimers.js",
     "Scripts/reset.bat",
     "Scripts",
     "Files/Pasted image 20241015234344.png",
-    "Templates/000 Flashcard.md",
-    "README.md",
     "Reset-Spaced-Repetition-Timeout/node_modules/which/bin/node-which",
     "Reset-Spaced-Repetition-Timeout/node_modules/which/bin",
     "Reset-Spaced-Repetition-Timeout/node_modules/type-fest/ts41/snake-case.d.ts",
     "Reset-Spaced-Repetition-Timeout/node_modules/type-fest/ts41/pascal-case.d.ts",
     "Reset-Spaced-Repetition-Timeout/node_modules/type-fest/ts41/kebab-case.d.ts",
     "Reset-Spaced-Repetition-Timeout/node_modules/type-fest/ts41/index.d.ts",
-    "Reset-Spaced-Repetition-Timeout/node_modules/type-fest/ts41/delimiter-case.d.ts",
     "Reset-Spaced-Repetition-Timeout/node_modules/style-mod/src/README.md",
     "Reset-Spaced-Repetition-Timeout/node_modules/typescript/SECURITY.md",
     "Reset-Spaced-Repetition-Timeout/node_modules/typescript/README.md",
@@ -306,9 +321,6 @@
     "Reset-Spaced-Repetition-Timeout/node_modules/@typescript-eslint/eslint-plugin/docs/rules/sort-type-union-intersection-members.md",
     "Reset-Spaced-Repetition-Timeout/node_modules/@typescript-eslint/eslint-plugin/docs/rules/semi.md",
     "Reset-Spaced-Repetition-Timeout/node_modules/@typescript-eslint/eslint-plugin/docs/rules/return-await.md",
-    "Reset-Spaced-Repetition-Timeout/node_modules/@typescript-eslint/eslint-plugin/docs/rules/restrict-template-expressions.md",
-    "Reset-Spaced-Repetition-Timeout/node_modules/@typescript-eslint/eslint-plugin/docs/rules/restrict-plus-operands.md",
-    "Reset-Spaced-Repetition-Timeout/node_modules/@typescript-eslint/eslint-plugin/docs/rules/require-await.md",
     "Reset-Spaced-Repetition-Timeout/screenshots/Ribbon Menu.png",
     "Reset-Spaced-Repetition-Timeout/screenshots/Enabling Plugin.png",
     "Reset-Spaced-Repetition-Timeout/screenshots/Command.png",
