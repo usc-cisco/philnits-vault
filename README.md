@@ -109,3 +109,5 @@ This is the end of the explanation, I hope you now understand why c) is the answ
 	- Strings, Integers, Characters
 - `#web-technologies`
 	- Javascript, CSS, Ajax
+- `#information-management`
+	- Databases, SQL
