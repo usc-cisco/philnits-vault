@@ -86,9 +86,13 @@ This is the end of the explanation, I hope you now understand why c) is the answ
 	- project management concepts, Scrum, Agile, Waterfall Method
 - `#accounting`
 	- balance sheets, profit calculation, P/L statements
- - `#probability`
-	 - statistics, probability
- - `#sets`
-	 - union, interception, Venn Diagram word problems
- - `#digital-logic`
-	 - Boolean Algebra, Logic Circuits
+- `#probability`
+	- statistics, probability
+- `#cybersecurity`
+	- information security
+- `#systems-architecture`
+	- UML2
+- `#sets`
+	- union, interception, Venn Diagram word problems
+- `#digital-logic`
+	- Boolean algebra, logic circuits

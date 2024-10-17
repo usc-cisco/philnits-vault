@@ -6,7 +6,16 @@
     "reviewButtonDelay": 0,
     "flashcardTags": [
       "#number-systems",
+<<<<<<< HEAD
       "#digital-logic"
+=======
+      "#operating-systems",
+      "#project-management",
+      "#accounting",
+      "#probability",
+      "#cybersecurity",
+      ""
+>>>>>>> c106a72dc73110b128e4aedd9906ebe3cd22dea6
     ],
     "convertFoldersToDecks": false,
     "burySiblingCards": false,
