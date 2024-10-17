@@ -5,7 +5,13 @@
     "flashcardHardText": "Hard",
     "reviewButtonDelay": 0,
     "flashcardTags": [
-      "#number-systems"
+      "#number-systems",
+      "#operating-systems",
+      "#project-management",
+      "#accounting",
+      "#probability",
+      "#cybersecurity",
+      ""
     ],
     "convertFoldersToDecks": false,
     "burySiblingCards": false,
