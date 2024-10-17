@@ -86,3 +86,5 @@ This is the end of the explanation, I hope you now understand why c) is the answ
 	- project management concepts, Scrum, Agile, Waterfall Method
 - `#accounting`
 	- balance sheets, profit calculation, P/L statements
+ - `#probability`
+    	- statistics, probability
