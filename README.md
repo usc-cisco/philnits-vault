@@ -111,3 +111,5 @@ This is the end of the explanation, I hope you now understand why c) is the answ
 	- Javascript, CSS, Ajax
 - `#information-management`
 	- Databases, SQL
+- `#statistics`
+	- Correlations, Regressions
