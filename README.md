@@ -113,3 +113,5 @@ This is the end of the explanation, I hope you now understand why c) is the answ
 	- Databases, SQL
 - `#statistics`
 	- Correlations, Regressions
+- `#networking`
+	- OSI layers, subnetting, network topology, protocols
