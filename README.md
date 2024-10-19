@@ -120,3 +120,5 @@ This is the end of the explanation, I hope you now understand why c) is the answ
 	- business development, analysis, strategy, secretary work
 - `#software-testing`
 	- test-driven development, terminology, types of tests, test automation
+- `#devops`
+	- system administration, server provisioning, automated deployment, system integration, containerization
