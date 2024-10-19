@@ -102,7 +102,6 @@ This is the end of the explanation, I hope you now understand why c) is the answ
   - Common algorithms
 - `#hardware`
   - Computer architecture and physical components
-	- Boolean algebra, logic circuits
 - `#data-structures`
 	- Stacks, Queues, Trees, Graphs
 - `#programming`
