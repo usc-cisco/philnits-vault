@@ -106,7 +106,7 @@ This is the end of the explanation, I hope you now understand why c) is the answ
 - `#data-structures`
 	- Stacks, Queues, Trees, Graphs
 - `#programming`
-	- Strings, Integers, Characters
+	- Strings, Integers, Characters, Programming Languages
 - `#web-technologies`
 	- Javascript, CSS, Ajax
 - `#information-management`
@@ -117,3 +117,5 @@ This is the end of the explanation, I hope you now understand why c) is the answ
 	- OSI layers, subnetting, network topology, protocols
 - `#service-management`
 	- ITIL, Service Strategy
+- `#math`
+  - algebraic problems, basic arithmetic word problems 
