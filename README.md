@@ -102,7 +102,6 @@ This is the end of the explanation, I hope you now understand why c) is the answ
   - Common algorithms
 - `#hardware`
   - Computer architecture and physical components
-	- Boolean algebra, logic circuits
 - `#data-structures`
 	- Stacks, Queues, Trees, Graphs
 - `#programming`
@@ -115,7 +114,9 @@ This is the end of the explanation, I hope you now understand why c) is the answ
 	- Correlations, Regressions
 - `#networking`
 	- OSI layers, subnetting, network topology, protocols
+- `#service-management`
+	- ITIL, Service Strategy
 - `#math`
-        - algebraic problems, basic arithmetic word problems 
+    - algebraic problems, basic arithmetic word problems 
 - `#strategy`
 	- Questions related to business
