@@ -117,6 +117,8 @@ This is the end of the explanation, I hope you now understand why c) is the answ
 - `#service-management`
 	- ITIL, Service Strategy
 - `#math`
-	- algebraic problems, basic arithmetic word problems 
+  - algebraic problems, basic arithmetic word problems 
+- `#data-encoding`
+	- ways to format, send, and store data, compression, data serialization, decoding
 - `#business-administration`
-	- Competitive Advantage
+	- business development, analysis, strategy, secretary work
