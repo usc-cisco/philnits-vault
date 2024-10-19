@@ -118,6 +118,8 @@ This is the end of the explanation, I hope you now understand why c) is the answ
 	- ITIL, Service Strategy
 - `#math`
   - algebraic problems, basic arithmetic word problems 
+- `#software`
+	- general software-related topics i.e., graphics software
 - `#data-encoding`
 	- ways to format, send, and store data, compression, data serialization, decoding
 - `#business-administration`
