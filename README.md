@@ -116,6 +116,6 @@ This is the end of the explanation, I hope you now understand why c) is the answ
 - `#networking`
 	- OSI layers, subnetting, network topology, protocols
 - `#math`
-        - algebraic problems, basic arithmetic word problems 
+  - algebraic problems, basic arithmetic word problems 
 - `#software`
 	- general software-related topics i.e., graphics software
