@@ -117,3 +117,5 @@ This is the end of the explanation, I hope you now understand why c) is the answ
 	- OSI layers, subnetting, network topology, protocols
 - `#math`
         - algebraic problems, basic arithmetic word problems 
+- `#strategy`
+	- Questions related to business
