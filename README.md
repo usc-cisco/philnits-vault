@@ -10,18 +10,12 @@ git clone git@github.com:Luzefiru/philnits-vault.git
 
 Then, we open the `philnits-vault` using Obsidian and we can press the `Review flashcards` button on the left ribbon.
 
-You can also do `CTRL + P > Spaced Repetition: Select a deck to cram` to review all the cards in the deck, ignoring the schedule of previously-reviewed cards.
+### Troubleshooting: Can't Review Previously-Reviewed Flashcards
 
-#### Resetting Flashcard Timers
+> [!WARNING]
+> The Spaced Repetition plugin will set a timer with a minimum of 1 day before the next time you can review the card.
 
-> [!CAUTION]
-> The [spaced repetition plugin](https://github.com/st3v3nmw/obsidian-spaced-repetition) currently does not support disabling the scheduling feature for the spaced repetition learning technique.
->
-> - this means you cannot review the flashcards, after viewing them, for at least 1 day.
-
-Our workaround is that you can simply run the `reset.bat` file and it will delete all the flashcard timers - allowing you to review the cards again.
-
-- it runs `node "$(pwd)/resetFlashcardTimers.js"`
+To work around this, you have to do `CTRL + P > Spaced Repetition: Select a deck to cram` to review all the cards in the deck, ignoring the schedule of previously-reviewed cards.
 
 ## Conventions on Creating Flashcards
 
@@ -124,3 +118,7 @@ This is the end of the explanation, I hope you now understand why c) is the answ
 	- ways to format, send, and store data, compression, data serialization, decoding
 - `#business-administration`
 	- business development, analysis, strategy, secretary work
+- `#software-testing`
+	- test-driven development, terminology, types of tests, test automation
+- `#devops`
+	- system administration, server provisioning, automated deployment, system integration, containerization
