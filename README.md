@@ -81,37 +81,46 @@ This is the end of the explanation, I hope you now understand why c) is the answ
 > - these determine the flashcard deck partitions.
 
 - `#number-systems`
-  - binary, decimal, octal, hexadecimal number conversions
+	- binary, decimal, octal, hexadecimal number conversions
 - `#operating-systems`
-  - CPU scheduling, kernel, functionalities, types of OS
+	- CPU scheduling, kernel, functionalities, types of OS
 - `#project-management`
-  - project management concepts, Scrum, Agile, Waterfall Method
+	- project management concepts, Scrum, Agile, Waterfall Method
 - `#accounting`
-  - balance sheets, profit calculation, P/L statements
+	- balance sheets, profit calculation, P/L statements
 - `#probability`
-  - statistics, probability
+	- statistics, probability
 - `#cybersecurity`
-  - information security
+	- Information Security
 - `#systems-architecture`
-  - UML2
+	- UML2
 - `#sets`
-  - union, interception, Venn Diagram word problems
+	- union, interception, Venn Diagram word problems
 - `#digital-logic`
-  - Boolean algebra, logic circuits
-- `#algorithms`
-  - Common algorithms
-- `#hardware`
-  - Computer architecture and physical components
 	- Boolean algebra, logic circuits
+- `#algorithms`
+	- Common algorithms
+- `#hardware`
+	- Computer architecture and physical components
 - `#data-structures`
 	- Stacks, Queues, Trees, Graphs
 - `#programming`
 	- Strings, Integers, Characters, Programming Languages
 - `#web-technologies`
-	- Javascript, CSS, Ajax
+	- JavaScript, CSS, Ajax
 - `#information-management`
 	- Databases, SQL
 - `#statistics`
 	- Correlations, Regressions
 - `#networking`
 	- OSI layers, subnetting, network topology, protocols
+- `#service-management`
+	- ITIL, Service Strategy
+- `#math`
+	- algebraic problems, basic arithmetic word problems 
+- `#software`
+	- general software-related topics i.e., graphics software
+- `#data-encoding`
+	- ways to format, send, and store data, compression, data serialization, decoding
+- `#business-administration`
+	- business development, analysis, strategy, secretary work
