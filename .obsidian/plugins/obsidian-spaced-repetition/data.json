@@ -33,7 +33,7 @@
     "burySiblingCards": false,
     "showContextInCards": true,
     "flashcardHeightPercentage": 80,
-    "flashcardWidthPercentage": 40,
+    "flashcardWidthPercentage": 95,
     "randomizeCardOrder": null,
     "flashcardCardOrder": "DueFirstRandom",
     "flashcardDeckOrder": "PrevDeckComplete_Sequential",
