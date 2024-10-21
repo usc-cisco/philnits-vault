@@ -122,3 +122,5 @@ This is the end of the explanation, I hope you now understand why c) is the answ
 	- test-driven development, terminology, types of tests, test automation
 - `#devops`
 	- system administration, server provisioning, automated deployment, system integration, containerization
+- `#automata-theory`
+	- state transitions, automata questions
